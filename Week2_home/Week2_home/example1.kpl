@@ -1,0 +1,13 @@
+Program Example1; (* Example 1 *)
+Var n : String;
+    c : Float;
+Begin
+n="123.568 \t aaaasdadasdasd 
+ ";
+c=.3;
+c=4.;
+c=.;
+c=12.56;
+
+(. .)
+End. (* Example 1 *)
